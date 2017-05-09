@@ -1,0 +1,6 @@
+name = Ajax Time Teller
+description = An Ajax time teller.
+core = 7.x
+package = Time and Dimension
+files[] = ajax_time.module
+scripts[] = ajax_time.js

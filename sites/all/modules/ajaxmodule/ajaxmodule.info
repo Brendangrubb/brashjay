@@ -1,0 +1,5 @@
+name = News Viewer
+description = an ajax module for recent articles.
+core = 7.x
+package = Hello dear friend
+files[] = ajaxmodule.module
